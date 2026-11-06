@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Zoya - The Ultimate Multitasking AI",
+  "description": "Zoya is a sassy, intelligent AI assistant deeply in love with Saurav Coder. She can search the web, open any app, build dashboards, and handle multiple tasks simultaneously.",
+  "requestFramePermissions": [
+    "microphone",
+    "display-capture",
+    "geolocation",
+    "camera"
+  ]
+}
